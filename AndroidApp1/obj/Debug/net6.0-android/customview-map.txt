@@ -1,0 +1,17 @@
+adaptive-icon;obj\Debug\net6.0-android\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\net6.0-android\res\mipmap-anydpi-v26\ic_launcher_round.xml
+background;obj\Debug\net6.0-android\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\net6.0-android\res\mipmap-anydpi-v26\ic_launcher_round.xml
+cache-path;C:\Users\panos\Desktop\a\Νέος φάκελος (2)\AndroidApp1\AndroidApp1\obj\Debug\net6.0-android\lp\9\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\net6.0-android\res\values\ic_launcher_background.xml
+external-cache-path;C:\Users\panos\Desktop\a\Νέος φάκελος (2)\AndroidApp1\AndroidApp1\obj\Debug\net6.0-android\lp\9\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\panos\Desktop\a\Νέος φάκελος (2)\AndroidApp1\AndroidApp1\obj\Debug\net6.0-android\lp\9\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\net6.0-android\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\net6.0-android\res\mipmap-anydpi-v26\ic_launcher_round.xml
+LinearLayout;obj\Debug\net6.0-android\res\layout\activity_main.xml
+paths;C:\Users\panos\Desktop\a\Νέος φάκελος (2)\AndroidApp1\AndroidApp1\obj\Debug\net6.0-android\lp\9\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;obj\Debug\net6.0-android\res\layout\activity_main.xml
+resources;obj\Debug\net6.0-android\res\values\ic_launcher_background.xml
+resources;obj\Debug\net6.0-android\res\values\strings.xml
+string;obj\Debug\net6.0-android\res\values\strings.xml
+TextView;obj\Debug\net6.0-android\res\layout\activity_main.xml
